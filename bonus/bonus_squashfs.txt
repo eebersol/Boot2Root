@@ -1,0 +1,5 @@
+
+Pour cette faille nous allons lire le .squashfs contenu dans l'iso pour pouvoir accéder à l'ensemble des datas du filesystems
+
+. On push notre squashfs sur un serveur privé on l'unsquashfs dessus.
+. Il nous reste plus qu'à ce mouvoir dans le filesystem pour trouver le login et le mot de passe de lmezard
